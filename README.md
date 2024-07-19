@@ -42,5 +42,8 @@ IndexTrainingTime.ipynb
 
 ### IPYNBs to generate figures with results  
 FiguresIVF.ipynb  
-FiguresHNSW.ipynb  
+FiguresHNSW.ipynb    
 
+### Software used to conduct the embeddings and the similarity search benchmarking  
+https://github.com/ma-compbio/Fast-Higashi  
+https://github.com/facebookresearch/faiss  
